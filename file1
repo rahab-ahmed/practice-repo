@@ -1,6 +1,5 @@
-apt update -y
-Or the full equivalent of yum update -y:
-bashapt update && apt upgrade -y
-
-apt update — refreshes the package list
-apt upgrade -y — installs available upgrades (the -y auto-confirms)
+rahab 
+arish
+ali 
+umer
+zain
